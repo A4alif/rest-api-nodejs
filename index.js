@@ -6,7 +6,7 @@ const port = 5000;
 const productsRoute = require('./routes/products')
 
 app.get('/', (req, res) => {
-    res.send("Hello I'm Alive");
+    res.send("Hi Api is running successfully \n To use this api go to /api/products ");
 })
 // conncect db
 connectDB();
