@@ -1,0 +1,77 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 204,
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": 2040,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "s22 ultra",
+        "price":3040,
+        "company": "samsung"
+    },
+    {
+        "name": "watch",
+        "price":340,
+        "company": "samsung"
+    },
+    {
+        "name": "xps13",
+        "featured": true,
+        "price":2500,
+        "company": "dell"
+    },
+    {
+        "name": "vostro",
+        "featured": true,
+        "price":4500,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron13",
+        "featured": true,
+        "price":2300,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron15",
+        "featured": true,
+        "price":3400,
+        "company": "dell"
+    },
+    {
+        "name": "probook13",
+        "featured": true,
+        "price":4500,
+        "company": "hp"
+    },
+    {
+        "name": "elitebook15",
+        "price":7500,
+        "company": "hp"
+    },
+    {
+        "name": "pavillion15",
+        "featured":true,
+        "price":4500,
+        "company": "hp"
+    }
+
+]
